@@ -6,6 +6,6 @@ UVA_Submiter
 
 3. run test
 
-
+Thanks [lucastan](https://github.com/lucastan)
 From https://github.com/lucastan/uva-node
 
